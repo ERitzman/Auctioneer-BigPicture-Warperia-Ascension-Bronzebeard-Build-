@@ -1,0 +1,10 @@
+## Title: Auc:Util:BigPicture
+## Interface: 30300
+## Dependancies: Auc-Advanced
+##
+## Version: 5.0.0.2
+## SavedVariables: BigPicture, BigPictureGuild
+## Author: ZoneReaper
+## X-Part-Of: Auctioneer
+##
+Embed.xml

@@ -1,0 +1,19 @@
+## Title: Auc:Filter:Basic
+## Notes: Allows filtering of Auctioneer data by some basic items, such as minimum quality, minimum item level, and ignored seller.
+##
+## Interface: 40000,30300
+## LoadOnDemand: 0
+## Disabled: 0
+## Dependencies: Auc-Advanced
+## SavedVariables: AucAdvancedFilterBasic, AucAdvancedFilterBasic_IgnoreList
+##
+## Version: 6.7 (ZoneReaper)
+## Revision: $Id: Auc-Filter-Basic.toc 4933 2010-10-13 17:16:14Z Nechckn $
+## URL: https://www.youtube.com/@JangerousReal/featured
+## Author: ZoneReaper aka jangerous
+## X-Part-Of: Auctioneer
+## X-Max-Interface: 40000
+##
+
+BasicFilter.xml
+BasicFilter.lua
