@@ -87,4 +87,14 @@ Future versions will include:
 
 Feedback, issues, suggestions welcome.
 
+---
+
+## Screenshots
+
+<img width="500" height="284" alt="SearchUI" src="https://github.com/user-attachments/assets/e3ab4fdb-bd8d-4284-8223-0aa8eaff0b07" />
+<img width="500" height="281" alt="PostFrame" src="https://github.com/user-attachments/assets/1e2e70f0-cd33-4b44-ab97-6aa3bec42225" />
+<img width="500" height="399" alt="BrowseFrameWithCompactUIEnabled" src="https://github.com/user-attachments/assets/bbcb436b-bee4-4368-82cf-4cd793e967f3" />
+<img width="700" height="639" alt="Auctioneer_Tooltip_Showing_All_Active" src="https://github.com/user-attachments/assets/90ed57d6-b59b-483b-a613-8feff658c1f0" />
+<img width="553" height="445" alt="Auctioneer_Basic_Tooltip" src="https://github.com/user-attachments/assets/bb449cd5-a52c-4b7d-8cee-66cfae53e0ee" />
+<img width="912" height="522" alt="Appraiser_Enhaced_Auction_Posting_Interface" src="https://github.com/user-attachments/assets/182851f8-3e98-447a-b848-8ad885f9b57b" />
 
