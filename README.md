@@ -1,4 +1,4 @@
-\# Auctioneer + BigPicture (Warparia / Ascension Bronzebeard Build)
+\# Auctioneer + BigPicture (Warperia / Ascension Bronzebeard Build - WoLK 3.3.5)
 
 ref: [https://warperia.com/addon-wotlk/working-auctioneer-bigpicture-bronzebeard-edition/](https://warperia.com/addon-wotlk/working-auctioneer-bigpicture-bronzebeard-edition/)
 
